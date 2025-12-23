@@ -48,7 +48,7 @@ An end-to-end system for summarizing long-form interview podcasts into structure
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sambath-kumar-715b83134  
+- 💼 LinkedIn: [https://www.linkedin.com/in/sambath-kumar-715b83134](https://www.linkedin.com/in/sambath-kumar-ms02-s/)  
 - 📧 Email: sambu.sivakumar@gmail.com  
 
 ---
