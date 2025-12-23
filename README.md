@@ -8,8 +8,8 @@ Interested in building scalable, reliable systems and practical AI solutions.
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Graduate student in Computer Engineering  
-- 💻 Background in backend development, systems, and machine learning  
+- 🎓 Virginia Tech, Blacksburg Graduate student in Computer Engineering  
+- 💻 Background in backend development, systems, and machine learning (More than 2 years of industry experience as a software Developer at Amadeus)
 - 🧠 Interested in LLMs, retrieval-augmented generation, and evaluation-driven ML  
 - 🚀 Enjoy turning research ideas into working systems  
 
